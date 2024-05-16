@@ -7,7 +7,6 @@
 - 🐢⌛ Currently Working on : Reusable HTML & CSS
 - 🐢📚 Currently Learning : React
 - ✉️💬 Reach me : fatema.a.ferdaus@gmail.com
-- Learning at the speed of a turtle🐢
 - ⏸️ Currently Paused : Android Development Learning (⁠ ⁠･ั⁠﹏⁠･ั⁠)
 
 
