@@ -8,6 +8,7 @@
 - 🐢📚 Currently Learning : React
 - ✉️💬 Reach me : fatema.a.ferdaus@gmail.com
 - ⏸️ Currently Paused : Android Development (⁠ ⁠･ั⁠﹏⁠･ั⁠)
+- ✨ Self-learning : 3D Modeling | Blender 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-A-Ferdaus-Ananna&layout=compact&bg_color=00000000&title_color=0969DA&border_color=0969DA&icon_color=0969DA&text_color=00000&card_width=600)
