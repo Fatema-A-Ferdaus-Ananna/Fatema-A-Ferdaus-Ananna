@@ -1,4 +1,4 @@
-## I am Fatema (◕‿◕)✿
+## I am Fatema (◕‿◕)✿ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Fatema-A-Ferdaus-Ananna&color=730ecc&label=Views)
 ##### PEACE BE UPON YOU.
 
 <!--
@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="25" height="25"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="28" height="28"/>&nbsp;
@@ -26,11 +28,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="23" height="23"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="25" height="25"/>&nbsp;
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-A-Ferdaus-Ananna&layout=compact&bg_color=00000000&title_color=0969DA&border_color=0969DA&icon_color=0969DA&text_color=00000&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-A-Ferdaus-Ananna&layout=compact&bg_color=00000000&title_color=730ecc&border_color=730ecc&icon_color=730ecc&text_color=00000&card_width=600)
 
-![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-A-Ferdaus-Ananna&show_icons=true&bg_color=00000000&title_color=0969DA&border_color=0969DA&icon_color=0969DA&text_color=00000&card_width=600)  
+![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-A-Ferdaus-Ananna&show_icons=true&bg_color=00000000&title_color=730ecc&border_color=730ecc&icon_color=730ecc&text_color=00000&card_width=600)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Fatema-A-Ferdaus-Ananna&theme=transparent&border_radius=4.4&mode=weekly&border=0969DA&background=EBEBEB00&card_width=600&currStreakNum=8e7cc3&ring=8e7cc3&fire=8e7cc3&dates=8e7cc3&currStreakLabel=0969DA&sideNums=0969DA&sideLabels=0969DA)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=Fatema-A-Ferdaus-Ananna&theme=transparent&border_radius=4.4&mode=weekly&border=730ecc&background=EBEBEB00&card_width=600&currStreakNum=8e7cc3&ring=8e7cc3&fire=8e7cc3&dates=8e7cc3&currStreakLabel=0969DA&sideNums=0969DA&sideLabels=0969DA)-->
 
