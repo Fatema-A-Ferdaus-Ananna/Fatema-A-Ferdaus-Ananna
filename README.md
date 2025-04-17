@@ -1,4 +1,4 @@
-## I am Fatema (◕‿◕)✿ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Fatema-A-Ferdaus-Ananna&color=4cc9f0&label=Views)
+## I am Fatema (◕‿◕)✿ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Fatema-A-Ferdaus-Ananna&color=FF8FAB&label=Views)
 ##### PEACE BE UPON YOU.
 
 <!--
@@ -31,9 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="25" height="25"/>&nbsp;
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-A-Ferdaus-Ananna&layout=compact&bg_color=00000000&title_color=4cc9f0&border_color=4cc9f0&icon_color=4cc9f0&text_color=00000&card_width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-A-Ferdaus-Ananna&layout=compact&bg_color=00000000&title_color=FF8FAB&border_color=FF8FAB&icon_color=FF8FAB&text_color=00000&card_width=600)
 
-![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-A-Ferdaus-Ananna&show_icons=true&bg_color=00000000&title_color=4cc9f0&border_color=4cc9f0&icon_color=4cc9f0&text_color=00000&card_width=600)  
+![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatema-A-Ferdaus-Ananna&show_icons=true&bg_color=00000000&title_color=FF8FAB&border_color=FF8FAB&icon_color=FF8FAB&text_color=00000&card_width=600)  
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=Fatema-A-Ferdaus-Ananna&theme=transparent&border_radius=4.4&mode=weekly&border=730ecc&background=EBEBEB00&card_width=600&currStreakNum=8e7cc3&ring=8e7cc3&fire=8e7cc3&dates=8e7cc3&currStreakLabel=0969DA&sideNums=0969DA&sideLabels=0969DA)-->
 
